@@ -1,0 +1,6 @@
+
+jika mengalami error telegraf silahkan lakukan 
+> sebelum di unzip install telegraf seperti ini di shell npm install telegraf
+
+jika error trus berlanjut silahkan 
+pv t.me/Dqrsc untuk mendapatkan pengarahan 
